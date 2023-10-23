@@ -13,8 +13,8 @@
 
 ## Estatística para Nerds
 <div>  
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bruno-Friedrich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10.0"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Friedrich&layout=compact&langs_count=7&hide_border=true&border_radius=10.0&theme=tokyonight"/>
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bruno-Friedrich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10.0"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Friedrich&layout=compact&langs_count=7&hide_border=true&border_radius=10.0&theme=tokyonight"/>
 <br><br>
   
 ## Tecnologias
