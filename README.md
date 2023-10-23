@@ -1,7 +1,7 @@
 # Olá! Sejam bem vindos ao meu perfil 👋
 
 <!-- GIF de Boas vindas -->
-<img src="https://github.com/Bruno-Friedrich/Bruno-Friedrich/blob/main/Media/Hello%20World.gif" alt="GIF de Boas vindas" width="576" height="324" />
+<img src="https://github.com/Bruno-Friedrich/Bruno-Friedrich/blob/main/Media/Hello%20World.gif" alt="GIF de Boas vindas" width="864" height="486" />
 
 <!-- Apresentações -->
 ## Apresentações:
@@ -13,8 +13,8 @@
 
 ## Estatística para Nerds
 <div>  
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bruno-Friedrich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10.0"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Friedrich&layout=compact&langs_count=7&hide_border=true&border_radius=10.0&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bruno-Friedrich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10.0"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Friedrich&layout=compact&langs_count=7&hide_border=true&border_radius=10.0&theme=tokyonight"/>
 <br><br>
   
 ## Tecnologias
